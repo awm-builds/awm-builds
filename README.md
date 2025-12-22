@@ -1,7 +1,5 @@
 # Hi, I'm Andrew W. Mewborn aka awm.builds 👋
 
-# Hi, I'm Andrew Mewborn 👋
-
 **Full-stack engineer building reproducible systems across Web3, AR/XR, and cross-platform workflows.**
 
 - 🔗 LinkedIn: [linkedin.com/in/awm-dev-builds](https://linkedin.com/in/awm-dev-builds)
