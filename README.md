@@ -11,4 +11,3 @@
 
 ## About Me
 I specialize in building reproducible engineering systems across Web3, AR/XR, and cross-platform stacks. My work focuses on clarity, modularity, and long-term maintainability from smart contracts to spatial UX.
-I maintain a public 12‑month engineering roadmap with trackable progression across all builds.
